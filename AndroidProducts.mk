@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_pissarro.mk
+    $(LOCAL_DIR)/pb_pissarro.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_pissarro-eng
+    pb_pissarro-eng
