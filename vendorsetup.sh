@@ -99,7 +99,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
               export OF_USE_GREEN_LED=0
 
         #Maintainer Stuff
-              export OF_MAINTAINER="Pranav Talmale"
+              export OF_MAINTAINER="Samrth Singh"
               export FOX_VERSION="R11.1_0"
 
     # run a process after formatting data to work-around MTP issues
